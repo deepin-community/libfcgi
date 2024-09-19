@@ -1,3 +1,9 @@
+libfcgi (2.4.2-2deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:53:55 +0800
+
 libfcgi (2.4.2-2) unstable; urgency=medium
 
   * Move to unstable: no changes required.
