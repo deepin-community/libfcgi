@@ -1,3 +1,9 @@
+libfcgi (2.4.2-2deepin1) unstable; urgency=medium
+
+  * fix(CVE-2025-23016): integer overflow in ReadParams function
+
+ -- hudeng <hudeng@deepin.org>  Wed, 29 Apr 2026 14:00:46 +0800
+
 libfcgi (2.4.2-2deepin0) unstable; urgency=medium
 
   * No source change upload against GCC 12.
